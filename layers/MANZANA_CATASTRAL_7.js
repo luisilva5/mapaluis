@@ -1,1 +1,0 @@
-var json_MANZANA_CATASTRAL_7 = {"type":"FeatureCollection","name":"MANZANA_CATASTRAL_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
